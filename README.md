@@ -1,6 +1,4 @@
 [![Sistema de clínica médica: um guia ...](https://images.openai.com/thumbnails/adec75976ac301449a7b0baa17b9e581.png)](https://consultorio.live/artigos/sistema-de-clinica-medica/)
-Claro! Abaixo está um modelo de `README.md` mais organizado e visualmente agradável para o repositório [tallw/help](https://github.com/tallw/help), que pode ser utilizado em seu projeto de sistema para clínica médica:
-
 ---
 
 # 🏥 Sistema de Gestão para Clínica Médica
