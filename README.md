@@ -75,5 +75,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir *issues* ou envi
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
-
-Se desejar, posso gerar o arquivo `README.md` completo e formatado para você adicionar diretamente ao seu repositório. Gostaria que eu fizesse isso?
